@@ -1,5 +1,5 @@
 # Theoretical Flaws of the Admissions Process
-This is the code I used to investigate the theoretical flaws of the admissions process. You can read my writeup [here](http://google.com).
+This is the code I used to investigate the theoretical flaws of the admissions process. You can read my writeup [here](https://medium.com/@gragas/theoretical-flaws-of-the-admissions-process-e9c20519cd0b).
 
 ## How to run my code
 All of my code is contained in one file, `machines.py`. It is Python 3 code. It requires these packages:
