@@ -16,4 +16,4 @@ There are three key variables in my code that are meant to be modified:
    2. The population size
    3. The number of trials per {number of machines}
 
-Luckily, all three variables are write at the top of `machines.py`. The acceptance rate should be a real number between zero and one. The population size should be a positive integer. The number of trials per {number of machines} should be a positive integer (the higher, the better).
+Luckily, all three variables are right at the top of `machines.py`. The acceptance rate should be a real number between zero and one. The population size should be a positive integer. The number of trials per {number of machines} should be a positive integer (the higher, the better).
